@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <a href='https://github.com/rtsarakaki'>
+  <a href='[https://linkedin/rtsarakaki](https://www.linkedin.com/in/ricardo-arakaki/)https://www.linkedin.com/in/ricardo-arakaki/'>
 </div>
