@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block"><br>
   <img aling="center" alt="rtsarakaki-aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img aling="center" alt="rtsarakaki-azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img aling="center" alt="rtsarakaki-gcp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img aling="center" alt="rtsarakaki-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img aling="center" alt="rtsarakaki-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img aling="center" alt="rtsarakaki-nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
