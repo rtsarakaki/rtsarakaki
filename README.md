@@ -47,12 +47,12 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 ##### Cloud
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-323330?style=for-the-badge&logo=amazonaws&logoColor=FF9900)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 
 ##### NLP
-![Dialogflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)&nbsp;
+![Dialogflow](https://img.shields.io/badge/dialogflow-323330?style=for-the-badge&logo=dialogflow&logoColor=FF9800)&nbsp;
 ![Microsoft LUIS](https://img.shields.io/badge/Microsoft_LUIS-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
 ##### Database
