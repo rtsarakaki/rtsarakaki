@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ##### Cloud
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-323330?style=for-the-badge&logo=amazonaws&logoColor=FF9900)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%23E0234E?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-F80000?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 
 ##### NLP
 ![Dialogflow](https://img.shields.io/badge/dialogflow-323330?style=for-the-badge&logo=dialogflow&logoColor=FF9800)&nbsp;
